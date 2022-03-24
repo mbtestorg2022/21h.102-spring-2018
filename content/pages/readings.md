@@ -138,7 +138,7 @@ Conflict and Conquest in The Frontier West
 
 \[T\] Chapter 1: The Western Route. \[Preview with [Google Books](https://books.google.com/books?id=N1WYCn1GPJAC&pg=PA11=onepage#v=onepage&q&f=false)\]
 
-Turner, Frederick Jackson. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Significance of the Frontier in American History," 1893. (PDF)](http://nationalhumanitiescenter.org/pds/gilded/empire/text1/turner.pdf) National Humanities Center.
+Turner, Frederick Jackson. ["The Significance of the Frontier in American History," 1893. (PDF)](http://nationalhumanitiescenter.org/pds/gilded/empire/text1/turner.pdf) National Humanities Center.
 
 Chew, Lee. "[Life of a Chinese Immigrant (1903)](https://www.wwnorton.com/college/history/archive/reader/trial/directory/1890_1914/28_ndh.htm)." W.W. Norton & Company, Inc.
 
@@ -168,7 +168,7 @@ Capital, Labor, and the Standardization of Work
 
 Jones, Rev. Jesse H., and I.G. Blanchard. "[Eight-Hours](https://www.marxists.org/subject/mayday/music/eighthour.html).” Marxists Internet Archive.
 
-Taylor, Frederick Winslow. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Principles of Scientific Management,” 1910. (PDF)](http://nationalhumanitiescenter.org/pds/gilded/progress/text3/taylor.pdf) National Humanities Center.
+Taylor, Frederick Winslow. ["The Principles of Scientific Management,” 1910. (PDF)](http://nationalhumanitiescenter.org/pds/gilded/progress/text3/taylor.pdf) National Humanities Center.
 
 _Recommended_
 
@@ -492,9 +492,9 @@ Power, Protest, and the Politics of Identity
 
 "[Black Panther Party Platform, Program, and Rules](http://www.historyisaweapon.com/defcon1/bpp.html)." History is a Weapon.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_The Black Panther_ 2, no. 2 (1968). (PDF - 3MB)](http://www.itsabouttimebpp.com/BPP_Newspapers/pdf/Vol_II_No1_1968.pdf) It's About Time - Black Panther Party Legacy & Alumni. _(skim)_
+[_The Black Panther_ 2, no. 2 (1968). (PDF - 3MB)](http://www.itsabouttimebpp.com/BPP_Newspapers/pdf/Vol_II_No1_1968.pdf) It's About Time - Black Panther Party Legacy & Alumni. _(skim)_
 
-Strait, Guy. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["What is a Hippie?," 1967. (PDF)](http://faculty.atu.edu/cbrucker/Amst2003/Texts/Hippie.pdf)
+Strait, Guy. ["What is a Hippie?," 1967. (PDF)](http://faculty.atu.edu/cbrucker/Amst2003/Texts/Hippie.pdf)
 
 Sinclair, John. "Rock and Roll is a Weapon of Cultural Revolution." In _Guitar Army: Rock & Revolution with The MC5 & the White Panther Party_. Process, 2007. ISBN: 9781934170007. 
 
